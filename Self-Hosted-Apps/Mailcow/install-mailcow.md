@@ -1,4 +1,4 @@
-#Mailcow Install
+# Mailcow Install
 1. **Update and upgrade Ubuntu:**
     
     ```bash
