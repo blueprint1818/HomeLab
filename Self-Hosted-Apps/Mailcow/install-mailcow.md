@@ -45,7 +45,6 @@
 8. **Configure MailCow:**
     
     ```
-    Copy code
     nano mailcow.conf
     
     ```
@@ -55,7 +54,6 @@
 9. **Install MailCow:**
     
     ```
-    Copy code
     docker-compose up -d
     
     ```
